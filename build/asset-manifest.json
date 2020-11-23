@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.541ba9be.chunk.css",
+    "main.js": "/static/js/main.d13ced2b.chunk.js",
+    "main.js.map": "/static/js/main.d13ced2b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ee30d779.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ee30d779.js.map",
+    "static/js/2.eb9bdc0d.chunk.js": "/static/js/2.eb9bdc0d.chunk.js",
+    "static/js/2.eb9bdc0d.chunk.js.map": "/static/js/2.eb9bdc0d.chunk.js.map",
+    "static/js/3.f7bc7e4f.chunk.js": "/static/js/3.f7bc7e4f.chunk.js",
+    "static/js/3.f7bc7e4f.chunk.js.map": "/static/js/3.f7bc7e4f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.541ba9be.chunk.css.map": "/static/css/main.541ba9be.chunk.css.map",
+    "static/js/2.eb9bdc0d.chunk.js.LICENSE.txt": "/static/js/2.eb9bdc0d.chunk.js.LICENSE.txt",
+    "static/media/MAFIA.f4ee44b4.svg": "/static/media/MAFIA.f4ee44b4.svg",
+    "static/media/main-page-2-bg.f6d30a1e.png": "/static/media/main-page-2-bg.f6d30a1e.png",
+    "static/media/remove-gray.a9540d42.svg": "/static/media/remove-gray.a9540d42.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee30d779.js",
+    "static/js/2.eb9bdc0d.chunk.js",
+    "static/css/main.541ba9be.chunk.css",
+    "static/js/main.d13ced2b.chunk.js"
+  ]
+}
